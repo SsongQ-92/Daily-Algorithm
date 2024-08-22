@@ -1,4 +1,7 @@
 /**
+ *
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42583
+ *
  * Pseudo Code
  *
  * 1. 다리는 큐 자료구조를 사용하면 될 것 같은데, 다리의 길이가 관건일 것 같다
