@@ -1,9 +1,5 @@
 const fs = require('fs');
 const path = process.platform === 'linux' ? '/dev/stdin' : './text.txt';
-const input = fs.readFileSync(path).toString().trim().split("\n");
+const input = fs.readFileSync(path).toString().trim().split(" ").map(Number);
 
-let answer = 0;
-
-
-
-console.log(answer);
+console.log(input[0] + input[1] + input[2]);
