@@ -1,11 +1,6 @@
-// const fs = require('fs');
-// const path = process.platform === 'linux' ? '/dev/stdin' : './text.txt';
-const path = `4 6
-101111
-101010
-101011
-111011`;
-const [numbers, ...arr] = path.trim().split('\n');
+const fs = require('fs');
+const path = process.platform === 'linux' ? '/dev/stdin' : './text.txt';
+const [numbers, ...arr] = fs.readFileSync(path).toString().trim().split('\n');
 
 const N = Number(numbers.split(" ")[0]);
 const M = Number(numbers.split(" ")[1]);
