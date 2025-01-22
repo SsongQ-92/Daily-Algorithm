@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-binary-search](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
