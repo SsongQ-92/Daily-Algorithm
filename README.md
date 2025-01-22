@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0226-invert-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
