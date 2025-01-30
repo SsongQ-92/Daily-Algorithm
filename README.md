@@ -72,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0792-binary-search) |
 ## Matrix
 |  |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
