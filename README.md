@@ -39,6 +39,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0383-ransom-note) |
 ## Tree
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
