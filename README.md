@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0169-majority-element) |
 | [0733-flood-fill](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -69,12 +70,14 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
@@ -104,6 +107,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -117,4 +121,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
