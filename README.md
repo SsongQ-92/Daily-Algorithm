@@ -29,6 +29,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0217-contains-duplicate) |
+| [0542-01-matrix](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@
 | [0053-maximum-subarray](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -102,6 +105,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0733-flood-fill) |
 ## Stack
 |  |
