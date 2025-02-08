@@ -25,10 +25,12 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0217-contains-duplicate) |
+| [0542-01-matrix](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -37,9 +39,11 @@
 | [0053-maximum-subarray](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0908-middle-of-the-linked-list) |
@@ -71,6 +75,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -91,6 +96,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0242-valid-anagram) |
@@ -102,6 +108,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SsongQ-92/Daily-Algorithm/tree/master/0733-flood-fill) |
 ## Stack
 |  |
