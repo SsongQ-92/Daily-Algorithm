@@ -97,10 +97,10 @@ class DoublyLinkedList {
     if (index === 0) {
       let deleteNode = this.head;
 
-      if (this.head.next !== null) {
+      if (this.head.next === null) { // 리스트에 노드가 하나만 있는 경우
         this.head = null;
         this.tail = null;
-      } else {  // 리스트에 노드가 하나만 있는 경우
+      } else {  
         this.head = this.head.next;
         this.head.prev = null;
       }
